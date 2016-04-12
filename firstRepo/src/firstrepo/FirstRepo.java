@@ -19,10 +19,12 @@ public class FirstRepo {
     }
     
     
-    int n =9;
-    String s="String de prova";
+    int n = 9;
+    String s = "String de prova";
     
-    String L= "Segona actualització";
+    String L = "Segona actualització";
+    
+    String F = "Tercera actualització, a una branca nova";
     
     
 }
