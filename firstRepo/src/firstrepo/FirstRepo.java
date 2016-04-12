@@ -22,4 +22,7 @@ public class FirstRepo {
     int n =9;
     String s="String de prova";
     
+    String L= "Segona actualització";
+    
+    
 }
